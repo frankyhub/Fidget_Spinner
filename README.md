@@ -19,7 +19,7 @@ SMD Loetuebung
 | 1  |  SW-200D  |
 | 1  | BC846B   |
 |  1 | Kugellager 22mm   | 
-|  1 |  Plaine  | 
+|  1 |  Platine  | 
 | ---  |  ---  | 
 
 ---
