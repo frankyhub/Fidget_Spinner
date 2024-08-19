@@ -1,5 +1,58 @@
 <a name="oben"></a>
 
+
+<div align="center">
+
+  |[:skull:ISSUE](https://github.com/frankyhub/LOGO_Steuerungstechnik/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Markdown/discussions?discussions_q=)|[:grey_question:WiKi](https://github.com/frankyhub/LOGO_Steuerungstechnik/wiki/Sicherheitsbestimmungen)|
+|--|--|--|
+| | | |
+|![GitHub issues](https://img.shields.io/github/issues/frankyhub/Fidget_Spinner)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Fidget_Spinner)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Fidget_Spinner)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)|
+|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/pulls)|![GitHub language count](https://img.shields.io/github/languages/count/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/) | ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+[<img src="https://img.shields.io/github/v/release/frankyhub/Markdown">](https://github.com/frankyhub/Markdown/releases)
+[<img src="https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik">](https://github.com/frankyhub/Markdown/releases)
+       ![](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)
+
+
+//FUNKT:
+
+[<img src="https://img.shields.io/github/v/release/frankyhub/Markdown">](https://github.com/frankyhub/Markdown/releases)
+
+![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)
+
+
+
+[<img src="https://img.shields.io/github/stars/frankyhub">](https://github.com/frankyhub?tab=stars)
+
+[<img src="https://img.shields.io/github/issues/frankyhub/Fidget_Spinner">](https://github.com/frankyhub/Fidget_Spinner/issues)
+
+[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/Markdown/blob/main/LICENSE.md)
+
+---
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Fidget_Spinner
 SMD Loetuebung
 
