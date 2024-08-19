@@ -10,24 +10,6 @@
 |![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/pulls)|![GitHub language count](https://img.shields.io/github/languages/count/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/) | ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
 
-[<img src="https://img.shields.io/github/v/release/frankyhub/Markdown">](https://github.com/frankyhub/Markdown/releases)
-[<img src="https://img.shields.io/github/v/release/frankyhub/LOGO_Steuerungstechnik">](https://github.com/frankyhub/Markdown/releases)
-       ![](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)
-
-
-//FUNKT:
-
-[<img src="https://img.shields.io/github/v/release/frankyhub/Markdown">](https://github.com/frankyhub/Markdown/releases)
-
-![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)
-
-
-
-[<img src="https://img.shields.io/github/stars/frankyhub">](https://github.com/frankyhub?tab=stars)
-
-[<img src="https://img.shields.io/github/issues/frankyhub/Fidget_Spinner">](https://github.com/frankyhub/Fidget_Spinner/issues)
-
-[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/Markdown/blob/main/LICENSE.md)
 
 ---
 
