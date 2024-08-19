@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  |[:skull:ISSUE](https://github.com/frankyhub/LOGO_Steuerungstechnik/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Markdown/discussions?discussions_q=)|[:grey_question:WiKi](https://github.com/frankyhub/LOGO_Steuerungstechnik/wiki/Sicherheitsbestimmungen)|
+  |[:skull:ISSUE](https://github.com/frankyhub/Fidget_Spinner/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Markdown/discussions?discussions_q=)|[:grey_question:WiKi](https://github.com/frankyhub/Fidget_Spinner/wiki)|
 |--|--|--|
 | | | |
 |![GitHub issues](https://img.shields.io/github/issues/frankyhub/Fidget_Spinner)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Fidget_Spinner)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Fidget_Spinner)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)|
