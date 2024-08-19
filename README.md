@@ -7,7 +7,7 @@
 |--|--|--|
 | | | |
 |![GitHub issues](https://img.shields.io/github/issues/frankyhub/Fidget_Spinner)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Fidget_Spinner)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Fidget_Spinner)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fidget_Spinner)|
-|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/pulls)|![GitHub language count](https://img.shields.io/github/languages/count/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/) | ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/Fidget_Spinner/pulls)|[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/Fidget_Spinner/blob/main/LICENSE.md)| ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
 
 
