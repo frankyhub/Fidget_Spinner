@@ -1,7 +1,7 @@
 M48
-; DRILL file {KiCad 7.0.8} date Thu Aug 22 12:11:38 2024
+; DRILL file {KiCad 7.0.8} date Mon Sep  9 11:56:05 2024
 ; FORMAT={3:3/ absolute / metric / suppress leading zeros}
-; #@! TF.CreationDate,2024-08-22T12:11:38+02:00
+; #@! TF.CreationDate,2024-09-09T11:56:05+02:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,7.0.8
 ; #@! TF.FileFunction,MixedPlating,1,2
 FMAT,2
@@ -20,8 +20,6 @@ X64540Y-84510
 X64540Y-86330
 X80790Y-66080
 X87110Y-62030
-X90520Y-72040
-X98300Y-87610
 T2
 X70210Y-96250
 X93760Y-96300
